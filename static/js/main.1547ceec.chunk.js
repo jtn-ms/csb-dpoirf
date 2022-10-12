@@ -1,0 +1,2 @@
+(this["webpackJsonpapp-phonebook"]=this["webpackJsonpapp-phonebook"]||[]).push([[0],{12:function(e,t,o){},14:function(e,t,o){"use strict";o.r(t);var c=o(1),n=o(3),s=(o(12),o(0));function r(){return Object(s.jsxs)("div",{className:"App",children:[Object(s.jsx)("h1",{children:"Hello CodeSandbox"}),Object(s.jsx)("h2",{children:"Start editing to see some magic happen!"})]})}var i=document.getElementById("root");Object(n.createRoot)(i).render(Object(s.jsx)(c.StrictMode,{children:Object(s.jsx)(r,{})}))}},[[14,1,2]]]);
+//# sourceMappingURL=main.1547ceec.chunk.js.map
